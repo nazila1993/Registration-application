@@ -1,0 +1,27 @@
+
+- number : 1
+  text : what is your first name?
+  verification : longer_than_one
+
+- number : 2
+  text: what is your lastname?
+  verification : longer_than_one
+
+- number : 3
+  text : what is your age ?
+  verification : ver_age
+
+- number : 4
+  text : are you a Us citizen?
+  verification : ver_yes_no
+
+- number : 5
+  text : what states do you live?
+  verification : us_citizen
+
+- number : 6
+  text : what is your zipcode?
+  verification : ver_zip
+
+
+
